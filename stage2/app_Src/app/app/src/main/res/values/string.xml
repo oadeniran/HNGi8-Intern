@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zurilink">
+        <a href ="https://internship.zuri.team/" >ZURI INTERNSHIP</a>
+    </string>
+</resources>
